@@ -1,0 +1,1 @@
+browser-sync start -s -f "*.html, css/*.css, js/*.js, img/*.png, img/*.svg, img/*.jpg"

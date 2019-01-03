@@ -19,11 +19,3 @@ let mainList = {
 }
 
 alert("Бюджет на один день:"+ Math.floor(magBudget/30) +"$");
-
-
-//ускладнене завдання
-
-// let num = 33721;
-// console.log(num);
-// num.split('');
-// console.log(num);
